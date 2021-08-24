@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 input:focus{border: 2px solid yellow;
     color: rgb(255, 255, 255);
     }
@@ -27,3 +28,35 @@ p:hover{
     color: tomato;
     font-size: 40px;
 }
+=======
+
+    input:focus{border: 2px solid yellow;
+        color: rgb(255, 255, 255);
+        }
+    input:hover{
+        background: rgb(124, 255, 1);
+    }
+    a{
+        text-decoration: none;
+        font-size: 15px;
+    }
+    
+    
+    
+    a.link1:hover{
+        color: rgb(0, 255, 55);
+    }
+
+    p::first-line{
+        color: fuchsia;
+    }
+
+    p::first-letter{
+        font-size: 30px;
+    }
+
+    p:hover{
+        color: tomato;
+        font-size: 40px;
+    }
+>>>>>>> 0a1827c8d1c5ac45363eae115076f01e3feff583
